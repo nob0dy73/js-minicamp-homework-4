@@ -1,0 +1,14 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* Callback Functions
+	callback functions can be passed like a variable and returned in other functions.
+	* Closure
+	javascript will look for variables that are called in lower-level functions above its level untill it can find where the variable was called
+	* arguments array
+	arguments array is an object that is passed to a function that have limited functions of an array
+	* recursion
+	recursion is when you have a function that calls on itself 
+	* prototype
+	Every object in JS has a prototype. Objects will inherit any properties and methods from their prototype. 
+	* constructors
+	Constructors are functions that are used to make similar objects with the same properties and methods.
